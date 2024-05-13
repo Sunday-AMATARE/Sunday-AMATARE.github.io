@@ -24,8 +24,8 @@ Research Interests
 
 News
 ======
-* May 2024: Congratulations to me on receiving the Graduate Dean's 2024 Summer Research Assistantship🎉
-* April 2024: Congratulations to me on receiving Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
+* May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship🎉
+* April 2024: Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
 * March 2024: Our poster paper "Testbed Design for Robot Navigation Through Differential Ray Tracing" is accepted in IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN).
-* February 2024: Congratulations to me on receiving an Honourable Mention Award for the SCFR PhD Lightning Talk Competition 🎉
+* February 2024: Excited to receive an Honourable Mention Award for the SCFR PhD Lightning Talk Competition 🎉
 * February 2024: I and Michelle Samson got nominated to represent CSE Department at the CoE Annual Banquet.
