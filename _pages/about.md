@@ -24,6 +24,8 @@ Research Interests
 
 News
 ======
+
+* May 2024: I gave a Poster Presentation at IEEE DySPAN Conference in Washington DC.
 * May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship🎉
 * April 2024: Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
 * March 2024: Our poster paper "Testbed Design for Robot Navigation Through Differential Ray Tracing" is accepted in IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN).
