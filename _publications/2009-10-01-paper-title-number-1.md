@@ -1,6 +1,6 @@
 ---
 title: "Predicting Customer Churn in Telecommunications Industry using Convolutional Neural Network Model"
-collection: Publications
+collection: Publication
 permalink: 
 excerpt: 
 date: 2020-05-16
