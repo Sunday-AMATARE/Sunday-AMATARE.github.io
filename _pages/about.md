@@ -24,9 +24,7 @@ Research Interests
 News
 ======
 * August 2025: Our paper got accepted at IEEE Military Communications Conference, 2025 🎉
-Congratulations to Abdullah Al Noman and Sunday Amatare for paper acceptance at IEEE MILCOM 2025.
 * May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
-Congratulations to Gaurav Singh and Sunday Amatare for winning the Best Paper Award at the NetRobiCS workshop held in conjunction with IEEE INFOCOM 2025.
 * February 2025: Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
 * February 2025: Our paper got accepted at IEEE INFOCOM (DTwin), 2025 🎉
 * January 2025: Our paper got accepted at IEEE International Conference on Communications, 2025 🎉
