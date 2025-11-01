@@ -14,7 +14,7 @@ I am currently pursuing a PhD in Computer Engineering at the Department of Compu
 
 Research Interests
 ======
-* Wireless Digital Twin
+* Wireless Digital Twins
 * Networked Robotics
 * AI/ML for Wireless Communications
 
