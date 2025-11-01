@@ -11,5 +11,3 @@ Here is a list of my awards and recognitions:
 - **Travel Grant Recipient** – IEEE DySPAN 2024
 - **Outstanding Research Award** – UT Arlington CSE Department, 2023
 - **Student Leadership Award** – Transformative Wireless Systems and Technology Lab, 2023
-
-
