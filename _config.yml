@@ -24,11 +24,7 @@ author:
   avatar           : 
   name             : "Sunday Amatare"
   pronouns         : # example: "she/her"  
-<<<<<<< HEAD
-  bio              : "PhD Candidate in Computer Engineering @ UT Arlington"
-=======
   bio              : "PhD Candidate in Computer Engineering @ UTA"
->>>>>>> 20b1632 (Update bio to reflect full university name)
   location         : "Arlington Texas, United States"
   employer         : "The University of Texas at Arlington"
   uri              : # URL
