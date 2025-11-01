@@ -4,26 +4,6 @@ title: Awards
 permalink: /awards/
 ---
 
-<div style="display: flex; flex-wrap: wrap;">
-
-<!-- Left column: profile -->
-<div style="flex: 0 0 250px; margin-right: 30px;">
-**Sunday Amatare**  
-PhD Candidate in Computer Engineering @ UTA  
-
-Arlington, Texas, United States  
-The University of Texas at Arlington  
-
-[Email](mailto:your.email@uta.edu)  
-[Google Scholar](https://scholar.google.com/)  
-[ORCID](https://orcid.org/)  
-[GitHub](https://github.com/)  
-[LinkedIn](https://linkedin.com/)  
-</div>
-
-<!-- Right column: content -->
-<div style="flex: 1 1 0;">
-
 ### Awards
 
 Here is a list of my awards and recognitions:
@@ -37,7 +17,6 @@ Here is a list of my awards and recognitions:
 - **Dean’s Summer Research Award** – College of Engineering, UT Arlington, 2024  
 - **Jeff and Lisa Smith Outstanding Graduate Researcher** – CSE Department, UT Arlington, 2024  
 - **Honourable Mention Award** – SCFR PhD Lightning Talk, 2024  
-- **Represented CSE Department** – College of Engineering Annual Banquet, 2024  
-
-</div>
-</div>
+- **Represented CSE Department** – College of Engineering Annual Banquet, 2024 
+- **STEM Tuition Support** – UT Arlington, 2023 - Present 
+- **Most Outstanding Information Technology Management Professional of the Year** – Nigeria Technology Awards, 2022 
