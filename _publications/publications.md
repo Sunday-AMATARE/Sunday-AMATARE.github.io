@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 ### Full List:
 Please find my full publication list at my [Google Scholar profile](https://scholar.google.com/citations?user=MtfXe-4AAAAJ&hl=en).
 
@@ -14,7 +12,7 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 
 ### Selected Publications:
 
-- **Sunday Amatare**, Michelle Samson, and Debashri Roy, “Testbed Design for Robot Navigation Through Differential Ray-Tracing,” IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), May 2024. [PDF](RagNAR.pdf)
+- **Sunday Amatare**, Michelle Samson, and Debashri Roy, “Testbed Design for Robot Navigation Through Differential Ray-Tracing,” IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), May 2024. [PDF](/files/RagNAR.pdf)
 
 - **Sunday Amatare**, “**Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin**,” *IEEE Military Communications Conference (MILCOM)*, October 2024. [PDF](#)
 
