@@ -23,10 +23,18 @@ Research Interests
 
 News
 ======
-* July 2024: Excited to win an NSF travel grant to attend the 2024 Open AI Cellular (OAIC) workshop at Mississippi State University🎉
+* August 2025: Our paper got accepted at IEEE Military Communications Conference, 2025 🎉
+Congratulations to Abdullah Al Noman and Sunday Amatare for paper acceptance at IEEE MILCOM 2025.
+* May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
+Congratulations to Gaurav Singh and Sunday Amatare for winning the Best Paper Award at the NetRobiCS workshop held in conjunction with IEEE INFOCOM 2025.
+* February 2025: Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
+* February 2025: Our paper got accepted at IEEE INFOCOM (DTwin), 2025 🎉
+* January 2025: Our paper got accepted at IEEE International Conference on Communications, 2025 🎉
+* August 2024: Our Demo paper got accepted at IEEE Military Communications Conference, 2024 🎉
+* July 2024: Excited to win an NSF travel grant to attend the 2024 Open AI Cellular (OAIC) workshop at Mississippi State University 🎉
 * May 2024: I gave a Poster Presentation at IEEE DySPAN Conference in Washington DC.
-* May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship🎉
-* April 2024: Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award🎉
-* March 2024: Our poster paper "Testbed Design for Robot Navigation Through Differential Ray Tracing" is accepted in IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN).
-* February 2024: Excited to receive an Honourable Mention Award for the SCFR PhD Lightning Talk Competition🎉
+* May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship 🎉
+* April 2024: Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
+* March 2024: Our poster paper got accepted at IEEE DySPAN, 2024 🎉
+* February 2024: Excited to receive an Honourable Mention Award for the SCFR PhD Lightning Talk Competition
 * February 2024: I and Michelle Samson got nominated to represent CSE Department at the CoE Annual Banquet.
