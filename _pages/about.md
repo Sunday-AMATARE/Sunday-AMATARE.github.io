@@ -27,8 +27,8 @@ News
 * May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
 * February 2025: Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
 * February 2025: Our paper got accepted at IEEE INFOCOM (DTwin), 2025 🎉
-* January 2025: Our paper got accepted at IEEE International Conference on Communications, 2025 🎉
-* August 2024: Our Demo paper got accepted at IEEE Military Communications Conference, 2024 🎉
+* January 2025: Our paper got accepted at IEEE ICC, 2025 🎉
+* August 2024: Our Demo paper got accepted at IEEE MILCOM, 2024 🎉
 * July 2024: Excited to win an NSF travel grant to attend the 2024 Open AI Cellular (OAIC) workshop at Mississippi State University 🎉
 * May 2024: I gave a Poster Presentation at IEEE DySPAN Conference in Washington DC.
 * May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship 🎉
