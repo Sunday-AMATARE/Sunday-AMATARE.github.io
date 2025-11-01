@@ -7,11 +7,11 @@ main:
    # url: /cv/
     url: /files/SA-CV.pdf
     
-  #- title: "Projects"
-   # url: /projects/    
+  - title: "Projects"
+    url: /projects/    
      
-  #- title: "Services"
-   # url: /services/
+  - title: "Services"
+    url: /services/
     
   #- title: "CV"
     #url: /cv/
