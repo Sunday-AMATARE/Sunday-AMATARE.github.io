@@ -7,7 +7,7 @@ permalink: /services/
 
 ## Organizing Committee
 
-- **Publicity Co-Chairs** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin 2025)
+- **Publicity Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin 2025)
 
 
 ## Reviewer Role
