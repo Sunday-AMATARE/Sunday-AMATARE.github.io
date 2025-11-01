@@ -3,12 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+ 
+  - title: "Awards"
+    url: /awards/  
+
+
   - title: "CV"
    # url: /cv/
     url: /files/SA-CV.pdf
-    
-  - title: "Awards"
-    url: /awards/    
+       
      
   - title: "Services"
     url: /services/
