@@ -7,7 +7,13 @@ permalink: /awards/
 
 Here is a list of my awards and recognitions:
 
-- **Best Paper Award** – IEEE Global Communications Conference (GLOBECOM) 2024
-- **Travel Grant Recipient** – IEEE DySPAN 2024
-- **Outstanding Research Award** – UT Arlington CSE Department, 2023
-- **Student Leadership Award** – Transformative Wireless Systems and Technology Lab, 2023
+- **Best Paper Award** – IEEE Networked Robotics and Communication Systems (NetRobiCS), 2025
+- **John S. Schuchman Outstanding Doctoral Award** – UT Arlington CSE Department, 2025
+- **Travel Grant Award** – IEEE INFOCOM, 2025
+- **Travel Grant Award** – UT Arlington Graduate School, 2025
+- **Travel Grant Award** – IEEE MILCOM, 2024
+- **Travel Grant Award** – NSF Sponsored OAIC & EdgeRIC Workshop, 2024
+- **Dean's Summer Research Award** – College of Engineering, UT Arlington, 2024
+- **Jeff and Lisa Smith Outstanding Graduate Researcher** – CSE Department, UT Arlington, 2024
+- **Honourable Mention Award** – SCFR PhD Lightning Talk, 2024
+- **Represented CSE Department** – College of Engineering Annual Banquet, 2024
