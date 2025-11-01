@@ -8,13 +8,15 @@ main:
     url: /awards/  
 
 
+  - title: "Services"
+    url: /services/
+
   - title: "CV"
    # url: /cv/
     url: /files/SA-CV.pdf
        
      
-  - title: "Services"
-    url: /services/
+  
     
   #- title: "CV"
     #url: /cv/
