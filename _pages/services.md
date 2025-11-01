@@ -5,32 +5,25 @@ permalink: /services/
 ---
 
 
+## Organizing Committee
+
+- **Publicity Co-Chairs** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin 2025)
+
+
 ## Reviewer Role
 
 ### Conferences
-- IEEE MSN ‘23
-- IEEE Globecom ‘23
-- INFOCOM ‘21
-- EAI Mobiquitous ‘19
-- ACM Mobicom ‘19
-- ACM GLSVLSI ‘18
-- CADS ‘17
+- IEEE Consumer Communications & Networking Conference (CCNC) ‘25
+- IEEE International Conference on Communications (ICC)  ‘25
+- IEEE International Conference on Computer Communications (INFOCOM) ‘25
+- IEEE Global Communications Conference (GLOBECOM) ‘24
+- IEEE Wireless On-demand Network Systems Conference (WONS) ‘24
+- International Workshop on SENET ‘24
+- IEEE Local and Metropolitan Area Network Conference (LANMAN) ‘24
+- IEEE DCOSS-IoT Conference ‘24
+
 
 ### Journals
-- IEEE Transactions on Wireless Communications
 - IEEE Transactions on Mobile Computing
-- IEEE Transactions on Cognitive Communications and Networking
-- IEEE Transactions on Intelligent Transportation Systems
-- IEEE Transactions on Information Forensics and Security
-- IEEE/ACM Transactions on Networking
-- IEEE Journal of Communications and Networking
-- Elsevier Journal of Information Security and Applications
-- Elsevier Computer Networks
-- IEEE Communications Letters
-- IEEE Wireless Communications Letters
 - Elsevier Computer Communications
 
-### Volunteer Experience
-- Volunteer student in IEEE INFOCOM 2021 (Online conference)
-- Volunteer student in IEEE SECON 2019 (in-person conference)
-- Volunteer student in IEEE DySPAN 2019 (in-person conference)
