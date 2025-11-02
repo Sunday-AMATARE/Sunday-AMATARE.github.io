@@ -7,8 +7,8 @@ permalink: /services/
 
 ## Organizing Committee
 
-- **Publicity Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin 2025)
-
+- **Publicity Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
+- **Technical Program Committee** - International Workshop on Semantic Communication-aided Wireless Networks for Emerging Technologies (SENET) ‘24
 
 ## Reviewer Role
 
