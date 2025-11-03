@@ -13,10 +13,10 @@ permalink: /services/
 ## Reviewer Role
 
 ### Conferences
-- The EuCNC & 6G Summit ‘25
-- IEEE Consumer Communications & Networking Conference (CCNC) ‘25
+- IEEE Consumer Communications & Networking Conference (CCNC) ‘26
+- The EuCNC & 6G Summit: AI/ML Solutions for Communications ‘25
 - IEEE International Conference on Communications (ICC)  ‘25
-- IEEE International Conference on Computer Communications (INFOCOM) ‘25
+- IEEE INFOCOM WKSHPS: Digital Twins over NextG Wireless Networks (DTWIN) ‘25
 - The 18th International Conference on Wireless and Mobile Computing, Networking, and Communications (WiMOB) ‘25
 - The 34th International Conference on Computer Communications and Networks (ICCCN) ‘25
 - IEEE Global Communications Conference (GLOBECOM) ‘24
@@ -27,6 +27,5 @@ permalink: /services/
 
 
 ### Journals
-- IEEE Transactions on Mobile Computing
-- Elsevier Computer Communications
-
+- IEEE Transactions on Mobile Computing ‘25
+- Elsevier Computer Communications ‘24
