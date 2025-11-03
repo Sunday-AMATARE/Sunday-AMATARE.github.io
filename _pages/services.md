@@ -13,10 +13,12 @@ permalink: /services/
 ## Reviewer Role
 
 ### Conferences
+- The EuCNC & 6G Summit ‘25
 - IEEE Consumer Communications & Networking Conference (CCNC) ‘25
 - IEEE International Conference on Communications (ICC)  ‘25
 - IEEE International Conference on Computer Communications (INFOCOM) ‘25
-- International Conference on Wireless and Mobile Computing, Networking, and Communications (WiMOB) ‘25
+- The 18th International Conference on Wireless and Mobile Computing, Networking, and Communications (WiMOB) ‘25
+- The 34th International Conference on Computer Communications and Networks (ICCCN) ‘25
 - IEEE Global Communications Conference (GLOBECOM) ‘24
 - IEEE Wireless On-demand Network Systems Conference (WONS) ‘24
 - International Workshop on SENET ‘24
