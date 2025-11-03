@@ -16,6 +16,7 @@ permalink: /services/
 - IEEE Consumer Communications & Networking Conference (CCNC) ‘25
 - IEEE International Conference on Communications (ICC)  ‘25
 - IEEE International Conference on Computer Communications (INFOCOM) ‘25
+- International Conference on Wireless and Mobile Computing, Networking, and Communications (WiMOB) ‘25
 - IEEE Global Communications Conference (GLOBECOM) ‘24
 - IEEE Wireless On-demand Network Systems Conference (WONS) ‘24
 - International Workshop on SENET ‘24
