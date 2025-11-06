@@ -6,8 +6,6 @@ author_profile: true
 author: Sunday Amatare
 ---
 
-### Awards
-
 Here is a list of my awards and recognitions:
 
 - **Best Paper Award** – IEEE Networked Robotics and Communication Systems (NetRobiCS), 2025  
