@@ -8,7 +8,7 @@ author: Sunday Amatare
 
 Here is a list of my awards and recognitions:
 
-- **Best Paper Award** – IEEE Networked Robotics and Communication Systems (NetRobiCS), 2025  
+- **Best Paper Award** – IEEE INFOCOM (NetRobiCS), 2025
 - **John S. Schuchman Outstanding Doctoral Award** – University Award, UT Arlington, 2025
 - **Travel Grant Recipient** – IEEE INFOCOM, 2025
 - **Travel Grant Recipient** – UT Arlington Graduate School, 2025
