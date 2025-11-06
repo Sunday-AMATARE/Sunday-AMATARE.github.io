@@ -18,5 +18,5 @@ Here is a list of my awards and recognitions:
 - **Jeff and Lisa Smith Outstanding Graduate Researcher** – University Award, UT Arlington, 2024
 - **Honourable Mention** – SCFR PhD Lightning Talk, 2024  
 - **Represented CSE Department** – College of Engineering Annual Banquet, 2024 
-- **STEM Tuition Support** – UT Arlington, 2023 - Present 
+- **STEM Tuition Support** – University Award, UT Arlington, 2023 - Present
 - **Most Outstanding Information Technology Management Professional of the Year** – Nigeria Technology Awards, 2022
