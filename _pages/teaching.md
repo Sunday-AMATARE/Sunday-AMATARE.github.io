@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
----
-
----
-layout: page
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
+
 
 ## Teaching
 
