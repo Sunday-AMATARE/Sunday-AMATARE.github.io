@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in Computer Engineering in the Department of Computer Science and Engineering at The University of Texas at Arlington, which I began in Fall 2023. I am a member of the Transformative Wireless Systems and Technology (TWiST) [Lab](https://twistlab.uta.edu/) , led by Professor [Debashri Roy](https://twistlab.uta.edu/about-pi/). Before beginning my Ph.D., I earned a Bachelor of Science and a Master of Science in Computer Science from the University of Ilorin and the University of Ibadan, respectively.
+I am currently pursuing a Ph.D. in Computer Engineering in the Department of Computer Science and Engineering at The University of Texas at Arlington, which I began in Fall 2023. I am a member of the Transformative Wireless Systems and Technology (TWiST)  [Lab](https://twistlab.uta.edu/) , led by Professor [Debashri Roy](https://twistlab.uta.edu/about-pi/). Before beginning my Ph.D., I earned a Bachelor of Science and a Master of Science in Computer Science from the University of Ilorin and the University of Ibadan, respectively.
 
 
 Research Interests
