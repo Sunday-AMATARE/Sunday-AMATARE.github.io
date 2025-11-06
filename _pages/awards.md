@@ -14,7 +14,7 @@ Here is a list of my awards and recognitions:
 - **Travel Grant Recipient** – UT Arlington Graduate School, 2025
 - **Travel Grant Recipient** – IEEE MILCOM, 2024
 - **Travel Grant Recipient** – NSF Sponsored OAIC & EdgeRIC Workshop, 2024
-- **Dean’s Summer Research Award** – College of Engineering, UT Arlington, 2024  
+- **Dean’s Summer Research Award** – University Award, UT Arlington, 2024  
 - **Jeff and Lisa Smith Outstanding Graduate Researcher** – University Award, UT Arlington, 2024
 - **Honourable Mention** – SCFR PhD Lightning Talk, 2024  
 - **Represented CSE Department** – College of Engineering Annual Banquet, 2024 
