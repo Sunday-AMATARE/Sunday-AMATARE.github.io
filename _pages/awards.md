@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Awards
+layout: single
+title: "Awards"
 permalink: /awards/
 author_profile: true
+author: Sunday Amatare
 ---
 
 ### Awards
