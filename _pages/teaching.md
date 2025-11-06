@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-### Recently Assisted Courses
+  Recently Assisted Courses:
 
 - **CSE 4322** - Software Project Management (Fall ‘25)
 
