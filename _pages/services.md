@@ -29,5 +29,5 @@ author: Sunday Amatare
 
 
 ### Journals
-- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Mobile Computing 
 - Elsevier Computer Communications
