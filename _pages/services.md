@@ -34,5 +34,5 @@ author: Sunday Amatare
 
 
 ## Volunteer Experience
-- Student Volunteer - OurCS Student Computing Research Festival (SCFR) ‘25
-- Student Volunteer - OurCS Student Computing Research Festival (SCFR) ‘24
+- Student Volunteer - OurCS Student Computing Research Festival (SCRF) ‘25
+- Student Volunteer - OurCS Student Computing Research Festival (SCRF) ‘24
