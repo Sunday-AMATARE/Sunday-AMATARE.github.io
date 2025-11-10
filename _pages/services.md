@@ -31,3 +31,8 @@ author: Sunday Amatare
 ### Journals
 - IEEE Transactions on Mobile Computing 
 - Elsevier Computer Communications
+
+
+## Volunteer Experience
+- Student Volunteer - OurCS Student Computing Research Festival (SCFR) ‘25
+- Student Volunteer - OurCS Student Computing Research Festival (SCFR) ‘24
