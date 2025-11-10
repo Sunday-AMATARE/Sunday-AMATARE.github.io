@@ -19,4 +19,4 @@ author_profile: true
 
 - **CSE 1310** - Introduction to Computers & Programming [Spring 2024]
 
-- **CSE 4322** - Software Project Management [Fall 2024]
+- **CSE 4322** - Software Project Management [Fall 2023]
