@@ -9,7 +9,7 @@ author: Sunday Amatare
 
 ## Organizing Committee
 
-- **Publicity Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
+- **Publicity/Web Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
 - **Technical Program Committee** - International Workshop on Semantic Communication-aided Wireless Networks for Emerging Technologies (SENET) ‘24
 
 ## Reviewer Role
