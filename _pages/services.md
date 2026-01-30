@@ -9,7 +9,7 @@ author: Sunday Amatare
 
 ## Organizing Committee
 
-- **Publicity/Website Co-Chair** - IEEE Military Communications Conference (MILCOM) ‘26
+- **Website Chair** - IEEE Military Communications Conference (MILCOM) ‘26
 - **Publicity/Web Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
 - **Technical Program Committee Reviewer** - International Workshop on Semantic Communication-aided Wireless Networks for Emerging Technologies (SENET) ‘24
 
