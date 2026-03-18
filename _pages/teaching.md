@@ -7,6 +7,8 @@ author_profile: true
 
   Recently Assisted Courses:
 
+- **CSE 4322** - Software Project Management [Spring 2026]
+
 - **CSE 4322** - Software Project Management [Fall 2025]
 
 - **CSE 1106** - Introduction to Computer Science & Engineering [Summer 2025]
