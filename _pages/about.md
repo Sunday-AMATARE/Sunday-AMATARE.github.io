@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* February 2026: Honored to be invited to serve as Website Chair for IEEE MILCOM 2026 🎉
 * August 2025: Our paper got accepted at IEEE MILCOM, 2025 🎉
 * May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
 * February 2025: Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
