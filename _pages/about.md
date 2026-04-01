@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* March 2026: Our paper got accepted for publication at IEEE IoT Magazine. Congrats Team 🎉
+* March 2026: Our paper got accepted at IEEE IoT Magazine. Congratulations Team 🎉
 * January 2026: Honored to be invited to serve as Website Chair for IEEE MILCOM 2026 🎉
 * August 2025: Our paper got accepted at IEEE MILCOM, 2025 🎉
 * May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
