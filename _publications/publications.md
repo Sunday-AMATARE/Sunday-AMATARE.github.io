@@ -12,7 +12,7 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 
 ### Selected Publications:
 
-- *W. Gao*, **Sunday Amatare***, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” Under Review at IEEE journal. [*Equal Contribution*]
+- *W. Gao**, ***Sunday Amatare***, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” Under Review at IEEE journal. *[Equal Contribution]*
 
 - **Sunday Amatare**, G. Singh, R. Shakya, A. Kharel, A. Alkhateeb, D. Roy, “DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing ,” Under Review at IEEE journal. [PDF](/files/DT-RaDaR.pdf)
 
