@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD in Computer Engineering in the Department of Computer Science and Engineering at The University of Texas at Arlington, which I began in Fall 2023. I am a member of [TWiST Lab](https://twistlab.uta.edu/), led by Professor [Debashri Roy](https://twistlab.uta.edu/about-pi/). Prior to starting my PhD, I earned a BS and a MS in Computer Science from the University of Ilorin and the University of Ibadan, respectively. My research focuses on digital twins and the application of machine learning in wireless communications, and my thesis topic is **“Wireless Digital Twins for NextG Communications: Theory to Practice.”**
+I am currently pursuing a PhD in Computer Engineering in the Department of Computer Science and Engineering at The University of Texas at Arlington, which I began in Fall 2023. I am a member of [TWiST Lab](https://twistlab.uta.edu/), led by Professor [Debashri Roy](https://twistlab.uta.edu/about-pi/). Prior to starting my PhD, I earned a BS and a MS in Computer Science from the University of Ilorin and the University of Ibadan, respectively. My research focuses on digital twins and the application of machine learning in wireless communications, and my dissertation topic is **“Wireless Digital Twins for NextG Communications: Theory to Practice.”**
 
 
 Research Interests
