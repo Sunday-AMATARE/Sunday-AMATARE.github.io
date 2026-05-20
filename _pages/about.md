@@ -21,19 +21,19 @@ Research Interests
 
 News
 ======
-* May 2026: I successfully passed my PhD Dissertation Proposal Defense 🎉
-* March 2026: Our paper got accepted at IEEE IoT Magazine. Congratulations Team 🎉
-* January 2026: Honored to be invited to serve as Website Chair for IEEE MILCOM 2026 🎉
-* August 2025: Our paper got accepted at IEEE MILCOM, 2025 🎉
-* May 2025: Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
-* February 2025: Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
-* February 2025: Our paper got accepted at IEEE INFOCOM (DTwin), 2025 🎉
-* January 2025: Our paper got accepted at IEEE ICC, 2025 🎉
-* August 2024: Our Demo paper got accepted at IEEE MILCOM, 2024 🎉
-* July 2024: Excited to win an NSF travel grant to attend the 2024 Open AI Cellular (OAIC) workshop at Mississippi State University 🎉
-* May 2024: I gave a Poster Presentation at IEEE DySPAN Conference in Washington DC.
-* May 2024: Excited to receive the Graduate Dean's 2024 Summer Research Assistantship 🎉
-* April 2024: Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
-* March 2024: Our poster paper got accepted at IEEE DySPAN, 2024 🎉
-* February 2024: Excited to receive an Honourable Mention Award for the SCFR PhD Lightning Talk Competition
-* February 2024: I and Michelle Samson got nominated to represent CSE Department at the CoE Annual Banquet.
+* **May 2026:** I successfully passed my PhD Dissertation Proposal Defense 🎉
+* **March 2026:** Our paper got accepted at IEEE IoT Magazine. Congratulations Team 🎉
+* **January 2026:** Honored to be invited to serve as Website Chair for IEEE MILCOM 2026 🎉
+* **August 2025:** Our paper got accepted at IEEE MILCOM, 2025 🎉
+* **May 2025:** Our paper, SauRON, won the Best Paper Award at IEEE INFOCOM (NetRobiCS), 2025. Congratulations Team 🎉
+* **February 2025:** Our paper got accepted at IEEE INFOCOM (NetRobiCS), 2025 🎉
+* **February 2025:** Our paper got accepted at IEEE INFOCOM (DTwin), 2025 🎉
+* **January 2025:** Our paper got accepted at IEEE ICC, 2025 🎉
+* **August 2024:** Our Demo paper got accepted at IEEE MILCOM, 2024 🎉
+* **July 2024:** Excited to win an NSF travel grant to attend the 2024 OAIC workshop at Mississippi State University 🎉
+* **May 2024:** I gave a Poster Presentation at IEEE DySPAN Conference in Washington DC.
+* **May 2024:** Excited to receive the Graduate Dean's 2024 Summer Research Assistantship 🎉
+* **April 2024:** Excited to receive Jeff and Lisa Smith Outstanding Graduate Researcher Award 🎉
+* **March 2024:** Our poster paper got accepted at IEEE DySPAN, 2024 🎉
+* **February 2024:** Excited to receive an Honourable Mention Award for the SCFR PhD Lightning Talk Competition
+* **February 2024:** I and Michelle Samson got nominated to represent CSE Department at the CoE Annual Banquet.
