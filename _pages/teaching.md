@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-  Recently Assisted Courses:
+  **Teaching Assistant, Department of Computer Science and Engineering, UT Arlington**
 
 - **CSE 4322** - Software Project Management [Spring 2026]
 
