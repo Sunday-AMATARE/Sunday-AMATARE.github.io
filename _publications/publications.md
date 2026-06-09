@@ -11,6 +11,7 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 ---
 
 ### Selected Publications:
+- **Sunday Amatare**, T. Sari, G. Secinti, B. Canberk, D. Roy, “Scalable Modular Digital Twins for Next-Generation Wireless Networks: A Spatial Fusion Framework,” Under Review at Elsevier journal. 
 
 - W. Gao\*, **Sunday Amatare**\*, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” Under Review at IEEE journal. **[\*Equal Contribution]**
 
