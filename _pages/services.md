@@ -16,10 +16,10 @@ author: Sunday Amatare
 ## Reviewer Role
 
 ### Journals
-- IEEE Journal on Selected Areas in Communications (JSAC)
-- IEEE Transactions on Mobile Computing (TMC)
-- IEEE Transactions on Networking (TNET)
-- Elsevier Computer Communications (COMCOM)
+- IEEE Journal on Selected Areas in Communications (JSAC) **IF(17.2)**
+- IEEE Transactions on Mobile Computing (TMC) **IF(9.2)**
+- IEEE Transactions on Networking (TNET) **IF(3.6)**
+- Elsevier Computer Communications (COMCOM) **IF(4.2)**
 
 
 ### Conferences
