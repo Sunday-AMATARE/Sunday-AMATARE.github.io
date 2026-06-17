@@ -15,6 +15,13 @@ author: Sunday Amatare
 
 ## Reviewer Role
 
+### Journals
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Networking (TNET)
+- Elsevier Computer Communications (COMCOM)
+
+
 ### Conferences
 - IEEE Consumer Communications & Networking Conference (CCNC) ‘26
 - The EuCNC & 6G Summit: AI/ML Solutions for Communications ‘25
@@ -27,12 +34,6 @@ author: Sunday Amatare
 - International Workshop on SENET ‘24
 - IEEE Local and Metropolitan Area Network Conference (LANMAN) ‘24
 - IEEE DCOSS-IoT Conference ‘24
-
-
-### Journals
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Networking
-- Elsevier Computer Communications
 
 
 ## Volunteer Experience
