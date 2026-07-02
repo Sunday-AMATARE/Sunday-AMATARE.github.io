@@ -11,11 +11,11 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 ---
 
 ### Selected Publications:
-- **Sunday Amatare**, T. Sari, G. Secinti, B. Canberk, D. Roy, “Scalable Modular Digital Twins for Next-Generation Wireless Networks: A Spatial Fusion Framework,” Under Review at Elsevier journal. 
+- **Sunday Amatare**, T. Sari, G. Secinti, B. Canberk, D. Roy, “Scalable Modular Digital Twins for Next-Generation Wireless Networks: A Spatial Fusion Framework,” *Submitted for Journal Publication*. 
 
-- W. Gao\*, **Sunday Amatare**\*, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” Under Review at IEEE journal. **[\*Equal Contribution]**
+- W. Gao\*, **Sunday Amatare**\*, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” *Submitted for Journal Publication*. **[\*Equal Contribution]**
 
-- **Sunday Amatare**, G. Singh, R. Shakya, A. Kharel, A. Alkhateeb, D. Roy, “DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing ,” Under Review at IEEE journal. [PDF](/files/DT-RaDaR.pdf)
+- **Sunday Amatare**, G. Singh, R. Shakya, A. Kharel, A. Alkhateeb, D. Roy, “DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing ,” *Submitted for Journal Publication*. [PDF](/files/DT-RaDaR.pdf)
 
 - **Sunday Amatare**, W. Gao, M.H. Rahman, A. Kharel, R. Shakya, X. Shang, D. Roy, “RF-Vision: Object Characterization using Radio Frequency Propagation in Wireless Digital Twins,” IEEE International Conference on Communications (ICC), July 2025. [PDF](/files/RF-Vision.pdf)
 
