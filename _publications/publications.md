@@ -21,7 +21,7 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 
 - **Sunday Amatare**, J. Meng, D. Roy, “Digital Twins for Identifying Jamming-prone Areas in Smart Cities,” *IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)*, June 2025. [PDF](/files/Jamming.pdf)
 
-- **Sunday Amatare**, G. Singh, M. Samson, D. Roy, “RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment,” **IEEE Global Communications Conference (GLOBECOM)*, December 2024. [PDF](/files/RagNAR.pdf)
+- **Sunday Amatare**, G. Singh, M. Samson, D. Roy, “RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment,” *IEEE Global Communications Conference (GLOBECOM)*, December 2024. [PDF](/files/RagNAR.pdf)
 
 - **Sunday Amatare**, G. Singh, A. Kharel, D. Roy, “Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin,” *IEEE Military Communications Conference (MILCOM)*, October 2024. [PDF](/files/RealTime.pdf)
 
