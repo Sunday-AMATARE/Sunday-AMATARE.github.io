@@ -15,7 +15,7 @@ Please find my full publication list at my [Google Scholar profile](https://scho
 
 - W. Gao\*, **Sunday Amatare**\*, X. Shang, D. Roy, “PRISM: Propagation-based RF Indoor Sensing and Material Detection using Mobile Transmitter,” *Submitted for Journal Publication*. **[\*Equal Contribution]**
 
-- **Sunday Amatare**, G. Singh, R. Shakya, A. Kharel, A. Alkhateeb, D. Roy, “DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing ,” *Submitted for Journal Publication*. [PDF](/files/DT-RaDaR.pdf)
+- **Sunday Amatare**, G. Singh, A. Alkhateeb, D. Roy, “DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing ,” *Submitted for Journal Publication*.
 
 - **Sunday Amatare**, W. Gao, M.H. Rahman, A. Kharel, R. Shakya, X. Shang, D. Roy, “RF-Vision: Object Characterization using Radio Frequency Propagation in Wireless Digital Twins,” *IEEE International Conference on Communications (ICC)*, July 2025. [PDF](/files/RF-Vision.pdf)
 
