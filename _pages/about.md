@@ -13,8 +13,8 @@ I am currently pursuing a PhD in Computer Engineering in the Department of Compu
 Research Interests
 ======
 * Wireless Digital Twins
+* Wireless Sensing
 * Networked Robotics
-* Satellite Communications
 * AI/ML for Wireless Communications
 
 
