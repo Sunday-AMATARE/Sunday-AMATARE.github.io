@@ -8,7 +8,6 @@ author: Sunday Amatare
 
 
 ## Organizing Committee
-- **Poster Judge** - IEEE Military Communications Conference (MILCOM) ‘26
 - **Website Chair** - IEEE Military Communications Conference (MILCOM) ‘26
 - **Publicity/Web Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
 - **Technical Program Committee Reviewer** - International Workshop on Semantic Communication-aided Wireless Networks for Emerging Technologies (SENET) ‘24
@@ -37,6 +36,9 @@ author: Sunday Amatare
 - IEEE Local and Metropolitan Area Network Conference (LANMAN) ‘24
 - IEEE DCOSS-IoT Conference ‘24
 
+## Other Service
+- **Young Scholar Poster Judge** - IEEE Military Communications Conference (MILCOM) ‘26
+- **Mentoring Session: Liaison Officer** - IEEE Military Communications Conference (MILCOM) ‘26
 
 ## Volunteer Experience
 - Student Volunteer - OurCS Student Computing Research Festival (SCRF) ‘25
