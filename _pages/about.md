@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* **September 2026:** Our paper got accepted at Computer Networks Journal 🎉
 * **May 2026:** I successfully passed my PhD Dissertation Proposal Defense 🎉
 * **March 2026:** Our paper got accepted at IEEE IoT Magazine. Congratulations Team 🎉
 * **January 2026:** Honored to be invited to serve as Website Chair for IEEE MILCOM 2026 🎉

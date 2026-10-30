@@ -8,7 +8,7 @@ author: Sunday Amatare
 
 
 ## Organizing Committee
-
+- **Poster Judge** - IEEE Military Communications Conference (MILCOM) ‘26
 - **Website Chair** - IEEE Military Communications Conference (MILCOM) ‘26
 - **Publicity/Web Co-Chair** - The First Workshop on Digital Twins over NextG Wireless Networks (DTwin) ‘25
 - **Technical Program Committee Reviewer** - International Workshop on Semantic Communication-aided Wireless Networks for Emerging Technologies (SENET) ‘24
@@ -16,13 +16,15 @@ author: Sunday Amatare
 ## Reviewer Role
 
 ### Journals
+- IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Mobile Computing (TMC) 
 - IEEE Transactions on Networking (TNET) 
-- Elsevier Computer Communications (COMCOM) 
+- Elsevier Computer Communications (COMCOM)
 
 
 ### Conferences
+- International Conference on Computing, Networking and Communications (ICNC) ‘27
 - IEEE Consumer Communications & Networking Conference (CCNC) ‘26
 - The EuCNC & 6G Summit: AI/ML Solutions for Communications ‘25
 - IEEE International Conference on Communications (ICC)  ‘25
