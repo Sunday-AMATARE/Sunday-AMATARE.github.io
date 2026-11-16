@@ -16,8 +16,7 @@ main:
     url: /services/
 
   - title: "CV"
-   # url: /cv/
-    url: /files/SundayAmatare_CV.pdf
+    url: /files/SundayAmatare%20_CV.pdf
        
      
   
